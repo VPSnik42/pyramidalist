@@ -1,0 +1,25 @@
+{
+    "name": "Karina Kennedy",
+    "age": 66,
+    "address": {
+        "street": "Christopher Fall",
+        "city": "Franklinfurt",
+        "state": "Idaho",
+        "zip": "25808"
+    },
+    "contact": {
+        "phone": "(967)818-6417x9479",
+        "servicePhone": "800682381"
+    },
+    "birthday": "1959-08-06",
+    "ip": "23.185.229.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon list million difference opportunity husband. Better wonder board reduce north concern work.",
+        "bio": "Property cause better bad billion product.\nRoad create option not edge statement."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
