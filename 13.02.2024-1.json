@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sampson",
+    "age": 15,
+    "address": {
+        "street": "Amanda Springs",
+        "city": "Nicholston",
+        "state": "Kentucky",
+        "zip": "64325"
+    },
+    "contact": {
+        "phone": "496-271-7476",
+        "servicePhone": "800491431"
+    },
+    "birthday": "2010-28-01",
+    "ip": "18.249.188.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime answer teach player. Wait face hair pass rich whether director more. Career sit in early hotel.\nPiece contain include career. White three no research.",
+        "bio": "Throw operation I discover. Ten western fact high specific officer. Against myself rich sort party deep rest."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
