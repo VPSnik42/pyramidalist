@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Jimenez",
+    "age": 3,
+    "address": {
+        "street": "Barnes Shoals",
+        "city": "Fordville",
+        "state": "South Carolina",
+        "zip": "65677"
+    },
+    "contact": {
+        "phone": "001-742-599-2310",
+        "servicePhone": "800626401"
+    },
+    "birthday": "2022-06-10",
+    "ip": "86.133.198.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview plant green defense security article director language. Produce against behavior soon in air wife leader.\nHigh positive firm could.",
+        "bio": "Reality again would star both cover figure. Three deep decide base town.\nOrganization trouble single third. Realize participant rate over record shoulder. Foreign training me someone produce."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
