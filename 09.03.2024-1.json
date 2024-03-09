@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Barker",
+    "age": 79,
+    "address": {
+        "street": "Frank Center",
+        "city": "Gentrytown",
+        "state": "Texas",
+        "zip": "55047"
+    },
+    "contact": {
+        "phone": "990.784.3511",
+        "servicePhone": "800158509"
+    },
+    "birthday": "1946-27-05",
+    "ip": "59.80.68.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement identify become affect medical feel. Evidence agreement figure represent customer catch. Me plant forget out no scene so.",
+        "bio": "Art guy treat like argue audience stop. Daughter PM former quite admit.\nThem follow race direction around. Television guess plan and her serious sit. Give order only home respond should."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
