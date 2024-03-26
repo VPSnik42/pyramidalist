@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Duke",
+    "age": 21,
+    "address": {
+        "street": "Burton Islands",
+        "city": "Mariofort",
+        "state": "New York",
+        "zip": "73409"
+    },
+    "contact": {
+        "phone": "001-658-222-6230x6584",
+        "servicePhone": "800533439"
+    },
+    "birthday": "2004-28-06",
+    "ip": "171.203.160.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Church second result people future down national. Somebody room same rate grow.\nWind sure room figure when ten. Plant author effect require effort consumer.",
+        "bio": "Next no work. Yeah morning first right face. Age bit worry camera.\nControl onto material until Mr. Like occur popular. New art produce mind."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
