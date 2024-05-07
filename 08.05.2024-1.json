@@ -1,0 +1,25 @@
+{
+    "name": "Mark Jennings",
+    "age": 58,
+    "address": {
+        "street": "Julie Island",
+        "city": "Jonesburgh",
+        "state": "Florida",
+        "zip": "20001"
+    },
+    "contact": {
+        "phone": "001-468-306-0023x1800",
+        "servicePhone": "800550269"
+    },
+    "birthday": "1967-10-04",
+    "ip": "77.14.217.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Best itself which describe hospital perform. Rich watch couple would both pattern century between.\nFirst cost help assume defense whatever through. Woman brother impact talk fear.",
+        "bio": "Green ready kitchen hundred. Along common whose glass us."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
