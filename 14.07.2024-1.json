@@ -1,0 +1,25 @@
+{
+    "name": "Jason Walls",
+    "age": 85,
+    "address": {
+        "street": "David Squares",
+        "city": "Lauraborough",
+        "state": "Minnesota",
+        "zip": "77435"
+    },
+    "contact": {
+        "phone": "876-950-1001x4873",
+        "servicePhone": "800583035"
+    },
+    "birthday": "1940-17-07",
+    "ip": "174.83.141.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually turn along away other. Effect full budget down address bar here. Point but not court manager.\nSoon plan wear. Loss eat write phone travel stock day north. Page from like within certainly.",
+        "bio": "Mission state list medical energy."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
