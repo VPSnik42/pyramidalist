@@ -1,0 +1,25 @@
+{
+    "name": "Amy Elliott",
+    "age": 57,
+    "address": {
+        "street": "Chen Coves",
+        "city": "Larsonland",
+        "state": "West Virginia",
+        "zip": "68852"
+    },
+    "contact": {
+        "phone": "754-785-9430x8556",
+        "servicePhone": "800159181"
+    },
+    "birthday": "1968-17-05",
+    "ip": "155.218.51.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag walk three north eat rich anything. Character boy understand soldier family myself. Mission effect street decide.\nSingle late price become science. Treatment western system even study.",
+        "bio": "That hope leg myself everything. Line however myself information suffer. Answer quickly down before floor be."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
