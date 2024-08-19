@@ -1,0 +1,25 @@
+{
+    "name": "Angela Spears",
+    "age": 102,
+    "address": {
+        "street": "Ashley Mountains",
+        "city": "Lake Latoya",
+        "state": "Colorado",
+        "zip": "17123"
+    },
+    "contact": {
+        "phone": "876.586.9849",
+        "servicePhone": "800264945"
+    },
+    "birthday": "1923-18-08",
+    "ip": "78.76.30.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Position rich understand stage beautiful you. Fire will travel year. Compare interview physical final whom cell finish series.",
+        "bio": "Business chance show likely letter bar. Raise place three imagine knowledge view protect.\nMore reveal foreign interest light. Attack interview environmental challenge win into hold civil."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
