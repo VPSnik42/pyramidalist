@@ -1,0 +1,25 @@
+{
+    "name": "Linda Armstrong DDS",
+    "age": 24,
+    "address": {
+        "street": "Suzanne Ridges",
+        "city": "Port Jason",
+        "state": "Virginia",
+        "zip": "74627"
+    },
+    "contact": {
+        "phone": "296.489.2916",
+        "servicePhone": "800907784"
+    },
+    "birthday": "2001-08-08",
+    "ip": "205.121.143.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Want fact effort manager. Or game similar quality. Including character truth why.\nCenter nothing improve sure Mr factor notice. Share popular American industry represent moment long.",
+        "bio": "Economic accept fill dinner carry into. Reason paper cup decade. Tonight instead protect certain me way.\nWhen choose mother day if charge peace. Son TV every one nation."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
