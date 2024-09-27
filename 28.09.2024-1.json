@@ -1,0 +1,25 @@
+{
+    "name": "Travis Lowe",
+    "age": 101,
+    "address": {
+        "street": "Jonathan Court",
+        "city": "South Davidchester",
+        "state": "Florida",
+        "zip": "77460"
+    },
+    "contact": {
+        "phone": "374.645.4816",
+        "servicePhone": "800208955"
+    },
+    "birthday": "1924-30-10",
+    "ip": "72.243.47.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy remain relate themselves idea. Every event really task. Thank ago help.\nNice stand them eat able. Protect language business tax. Pay peace western fish past over dinner.",
+        "bio": "Theory game risk reality role magazine issue. Production provide your. Data area however each sit probably.\nAgo type low. Put forward commercial ever book detail food. Lawyer material stay film."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
