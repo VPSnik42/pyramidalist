@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Fletcher",
+    "age": 105,
+    "address": {
+        "street": "Edwards Drive",
+        "city": "Colleenbury",
+        "state": "New York",
+        "zip": "67844"
+    },
+    "contact": {
+        "phone": "4913220731",
+        "servicePhone": "800703523"
+    },
+    "birthday": "1920-03-06",
+    "ip": "202.241.18.210",
+    "foo": "bar",
+    "profile": {
+        "about": "We media produce maybe whether institution certainly speak. Fight outside add share. Message detail defense still. Trip president treat against relate.",
+        "bio": "Wear teach drop off.\nBaby accept half medical. Space third reveal office catch. Enjoy answer help especially fall table."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
