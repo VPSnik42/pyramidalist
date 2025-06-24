@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Anderson",
+    "age": 72,
+    "address": {
+        "street": "Julie Isle",
+        "city": "Port Patrickside",
+        "state": "Arkansas",
+        "zip": "30741"
+    },
+    "contact": {
+        "phone": "283-856-4230x2971",
+        "servicePhone": "800353512"
+    },
+    "birthday": "1953-24-06",
+    "ip": "129.45.59.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Other treat anything spring today. Edge success magazine public. Force agency discuss right.",
+        "bio": "Time feeling cost federal of. Herself no wife born safe anything.\nAgency still forward change action floor find. Each ever situation middle.\nAttorney cause reality employee bring enough before."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
