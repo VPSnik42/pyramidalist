@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Cox",
+    "age": 66,
+    "address": {
+        "street": "Courtney Flats",
+        "city": "South Markstad",
+        "state": "Ohio",
+        "zip": "55997"
+    },
+    "contact": {
+        "phone": "(422)237-0465x77724",
+        "servicePhone": "800150133"
+    },
+    "birthday": "1959-27-10",
+    "ip": "198.215.9.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial bill blood where approach leader not. Candidate field exactly attorney this college thus.",
+        "bio": "Reality lead tough reality available page collection less. Follow effort staff herself include stock budget."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
