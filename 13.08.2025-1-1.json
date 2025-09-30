@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Mathews",
+    "age": 107,
+    "address": {
+        "street": "Eric Summit",
+        "city": "Grimesview",
+        "state": "Georgia",
+        "zip": "56855"
+    },
+    "contact": {
+        "phone": "570-698-5293",
+        "servicePhone": "800584119"
+    },
+    "birthday": "1918-07-09",
+    "ip": "134.21.7.172",
+    "foo": "bar",
+    "profile": {
+        "about": "But push current opportunity fish ago major. Tough follow role. Century kitchen around herself sometimes will order.",
+        "bio": "Then discussion before water name sort. Professor beat officer artist woman reduce. Reach friend wind.\nCell power project. Trade than coach model speech."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
