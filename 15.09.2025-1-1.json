@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Davis",
+    "age": 98,
+    "address": {
+        "street": "Palmer Row",
+        "city": "Lake Melanieshire",
+        "state": "South Dakota",
+        "zip": "86075"
+    },
+    "contact": {
+        "phone": "520-762-0500x1243",
+        "servicePhone": "800581047"
+    },
+    "birthday": "1927-15-09",
+    "ip": "165.181.252.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar thought maintain window section art. Phone property watch article follow cause.\nLet region your even during. Even lose difficult finish character sense consider. Here product thank wish.",
+        "bio": "Institution either attention how. Produce future unit leave around major. Foot administration quite art ago decide."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

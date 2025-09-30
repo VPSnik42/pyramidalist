@@ -1,0 +1,25 @@
+{
+    "name": "Mike Morrison",
+    "age": 68,
+    "address": {
+        "street": "Frank Turnpike",
+        "city": "Westfort",
+        "state": "South Carolina",
+        "zip": "89523"
+    },
+    "contact": {
+        "phone": "952-800-4911x68251",
+        "servicePhone": "800819686"
+    },
+    "birthday": "1957-12-02",
+    "ip": "51.243.213.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern ten then wall. Account decade western.\nContinue father people no race whose behind kind. Week music leg develop service character.",
+        "bio": "Hospital gun sign heart probably others. Threat couple weight senior remember either sport there.\nStep major never father film direction movement just. Industry policy toward."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
