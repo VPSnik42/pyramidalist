@@ -1,0 +1,25 @@
+{
+    "name": "Michael Nguyen",
+    "age": 51,
+    "address": {
+        "street": "Howard Views",
+        "city": "West Dennis",
+        "state": "Massachusetts",
+        "zip": "32435"
+    },
+    "contact": {
+        "phone": "642.425.0013x7579",
+        "servicePhone": "800563343"
+    },
+    "birthday": "1974-15-01",
+    "ip": "143.102.154.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal no concern. Challenge eye total little yes or until. Early avoid story.\nBefore if medical control foreign so. Charge name attention guy seek result watch.",
+        "bio": "Defense board program final. Suffer human lawyer believe position. Describe dream hear economy former of usually herself.\nApproach relationship analysis. Mean region safe paper."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
