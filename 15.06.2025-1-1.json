@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ross",
+    "age": 16,
+    "address": {
+        "street": "Nichols Centers",
+        "city": "Brittanyshire",
+        "state": "Kentucky",
+        "zip": "20585"
+    },
+    "contact": {
+        "phone": "001-782-252-8632",
+        "servicePhone": "800650975"
+    },
+    "birthday": "2009-11-05",
+    "ip": "165.117.186.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert shake reason dark. Whom couple concern.\nPast employee success production.\nAgency fire in agent author necessary. Success clearly plant class wind page.",
+        "bio": "Live including kind better. As indeed place already child. White turn image parent.\nConcern religious respond relate this year. Town south culture."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

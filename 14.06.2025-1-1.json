@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mills",
+    "age": 53,
+    "address": {
+        "street": "Murphy Meadow",
+        "city": "Josephchester",
+        "state": "New Mexico",
+        "zip": "95345"
+    },
+    "contact": {
+        "phone": "265-555-4655",
+        "servicePhone": "800013448"
+    },
+    "birthday": "1972-26-02",
+    "ip": "52.194.132.129",
+    "foo": "bar",
+    "profile": {
+        "about": "A couple early worker full.\nHis never pull itself between range. Remain must wife out growth summer while. Travel say rather tree trade current practice without.",
+        "bio": "Laugh soon far experience why knowledge fill. Approach one join democratic nearly. Kitchen one why development."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
