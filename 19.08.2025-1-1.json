@@ -1,0 +1,25 @@
+{
+    "name": "Richard Chen",
+    "age": 24,
+    "address": {
+        "street": "Kenneth Wells",
+        "city": "Port Lisaview",
+        "state": "Nevada",
+        "zip": "71530"
+    },
+    "contact": {
+        "phone": "6358474748",
+        "servicePhone": "800939701"
+    },
+    "birthday": "2001-02-06",
+    "ip": "87.73.171.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio shake mention contain house society. Enough between item right different. Deal mouth I people.",
+        "bio": "Seem learn and marriage manage cultural admit. Oil nothing so some change low thing. However best growth nor.\nCan break experience. Fly ready catch moment. She sister apply anything doctor action."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

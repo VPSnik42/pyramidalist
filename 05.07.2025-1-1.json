@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Hanson",
+    "age": 20,
+    "address": {
+        "street": "James Villages",
+        "city": "Craigview",
+        "state": "Florida",
+        "zip": "22386"
+    },
+    "contact": {
+        "phone": "666.344.4228x88069",
+        "servicePhone": "800114251"
+    },
+    "birthday": "2005-14-02",
+    "ip": "168.185.59.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention leg speak mean sure soldier. Heart minute director late. Series free population ten.\nRegion society follow left despite. Someone position market.",
+        "bio": "East sit put. Fact real look grow team.\nShow cultural test south. Single cultural less use most reach. Maybe help rest raise. Southern set leave moment bring church."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
