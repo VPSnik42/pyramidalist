@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Wells",
+    "age": 1,
+    "address": {
+        "street": "Manuel Views",
+        "city": "Barnesport",
+        "state": "Maryland",
+        "zip": "53334"
+    },
+    "contact": {
+        "phone": "381-802-4934x2665",
+        "servicePhone": "800507944"
+    },
+    "birthday": "2024-20-05",
+    "ip": "38.140.42.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Sound set land foot physical school these.\nDaughter various fall card treatment chair return fly.",
+        "bio": "What window fact box. Onto without trouble hundred million. Wish energy time large low cell democratic.\nAddress air far live. Anything different him man start."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

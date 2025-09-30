@@ -1,0 +1,25 @@
+{
+    "name": "Todd Young",
+    "age": 110,
+    "address": {
+        "street": "Adam Center",
+        "city": "North Lesliefurt",
+        "state": "Illinois",
+        "zip": "58260"
+    },
+    "contact": {
+        "phone": "+1-732-754-9100x475",
+        "servicePhone": "800522170"
+    },
+    "birthday": "1915-14-09",
+    "ip": "81.12.0.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Value authority reality. Do age decision ago hour. Road us event case why.",
+        "bio": "Tell mind great magazine who individual example world. Eat design final lot. Involve day suffer who.\nRole someone line science trip. Provide ahead some use."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
