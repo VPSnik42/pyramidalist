@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Lopez",
+    "age": 102,
+    "address": {
+        "street": "Morris Orchard",
+        "city": "East Linda",
+        "state": "Idaho",
+        "zip": "49439"
+    },
+    "contact": {
+        "phone": "916-773-9208",
+        "servicePhone": "800741173"
+    },
+    "birthday": "1923-16-09",
+    "ip": "62.92.57.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred sister provide able break. Room sound book receive note.\nInvolve how morning impact. Understand southern trial evening southern join.",
+        "bio": "Him opportunity car happy about away future. Do eye plan difference without. Site seven million budget figure citizen address relationship. Laugh by century medical."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

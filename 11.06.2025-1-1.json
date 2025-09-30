@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hernandez",
+    "age": 109,
+    "address": {
+        "street": "Angela Summit",
+        "city": "Heathland",
+        "state": "Illinois",
+        "zip": "59478"
+    },
+    "contact": {
+        "phone": "+1-449-387-4492x8167",
+        "servicePhone": "800365964"
+    },
+    "birthday": "1916-09-09",
+    "ip": "93.98.247.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok relate everyone although pattern wear become. Lay tax southern field choice. Wall themselves weight finally natural speech act.",
+        "bio": "Mother opportunity capital TV concern. Where decide office that himself.\nFree throw care change amount heart. Sing allow bit make office."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
