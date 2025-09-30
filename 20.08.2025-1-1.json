@@ -1,0 +1,25 @@
+{
+    "name": "Frances Kim",
+    "age": 78,
+    "address": {
+        "street": "Jones Spring",
+        "city": "Schmidtstad",
+        "state": "Louisiana",
+        "zip": "90410"
+    },
+    "contact": {
+        "phone": "6382100323",
+        "servicePhone": "800863764"
+    },
+    "birthday": "1947-19-06",
+    "ip": "27.184.56.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Government realize produce movement leader. Receive certain reduce foot body financial.\nManager few pattern among. Movie same traditional Republican enter structure under pick.\nHelp deal degree more.",
+        "bio": "Around learn model call best analysis Mr. Believe listen remain admit commercial.\nHot only short white between increase throughout citizen."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
