@@ -1,0 +1,25 @@
+{
+    "name": "William Mendez",
+    "age": 106,
+    "address": {
+        "street": "Stephanie Common",
+        "city": "South Andrew",
+        "state": "Minnesota",
+        "zip": "93232"
+    },
+    "contact": {
+        "phone": "001-319-351-5540x41168",
+        "servicePhone": "800824896"
+    },
+    "birthday": "1919-11-09",
+    "ip": "49.125.47.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent big nature to prevent season red four. Type impact music good author.\nWhy so carry outside. Capital land five however.\nDrop expert least.",
+        "bio": "Difference company scientist impact well interest paper. Energy member prove I do.\nStart example international she. Ready offer about often national eight. Interest my seat able."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

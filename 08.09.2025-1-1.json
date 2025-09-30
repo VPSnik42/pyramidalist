@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Wu",
+    "age": 18,
+    "address": {
+        "street": "Jessica Union",
+        "city": "New Lauren",
+        "state": "Rhode Island",
+        "zip": "89561"
+    },
+    "contact": {
+        "phone": "988.809.4638x3443",
+        "servicePhone": "800664430"
+    },
+    "birthday": "2007-29-05",
+    "ip": "20.116.179.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Your dinner case. Story interview lot per north picture.",
+        "bio": "Reveal west rule important experience. Teacher cover line drive interview whom. Popular special responsibility.\nCultural quality million avoid yet popular tend. Not culture offer agreement."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
